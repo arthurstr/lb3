@@ -97,4 +97,4 @@ public class GornerTableModel extends AbstractTableModel {
             return Boolean.class;
         }
     }
-} 
+}
